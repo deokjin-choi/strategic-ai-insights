@@ -21,7 +21,7 @@ The focus is not only on technical implementation but on how these technologies 
 
 ## Repository Structure
 
-theory/ → Conceptual frameworks and strategic methodologies
-case_studies/ → Analysis of real-world competitive scenarios
-code/ → Experiments, scripts, and notebooks
+1. theory/ → Conceptual frameworks and strategic methodologies
+2. case_studies/ → Analysis of real-world competitive scenarios
+3. code/ → Experiments, scripts, and notebooks
 
