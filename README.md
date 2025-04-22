@@ -19,6 +19,55 @@ The focus is not only on technical implementation but on how these technologies 
 3. **Technology forecasting and roadmap planning (MOT perspective)**  
    → Leveraging data-driven methods to support technology prediction, scenario planning, and future-oriented strategy building.
 
+## Strategy Flow Overview
+┌───────────────────────────────────────────────┐
+│   External Signals                            │
+│   (Patents, Market Data, Earnings Calls, etc.)│
+│   → Web Crawling, Patent DB, RAG, Embeddings  │
+└───────────────────────┬───────────────────────┘
+                        │
+                        ▼
+┌───────────────────────────────────────────────┐
+│   Problem Discovery                          │
+│   (What is the right question?)              │
+│   → LLM-based summarization, Topic Modeling  │
+│   → Clustering, Keyword Extraction, Prompting│
+└───────────────────────┬───────────────────────┘
+                        │
+                        ▼
+┌───────────────────────────────────────────────┐
+│   Data Analysis & AI Exploration             │
+│   (How to explore the solution?)             │
+│   → Sentence Embeddings, FAISS, Few-shot     │
+│   → Clustering (HDBSCAN / KMeans), UMAP      │
+│   → LLM-guided similarity, Prompt-based Eval│
+└───────────────────────┬───────────────────────┘
+                        │
+                        ▼
+┌───────────────────────────────────────────────┐
+│   Insight Generation                         │
+│   (What do we learn from the results?)       │
+│   → LLM-based summarization, Difference Gen  │
+│   → Similarity Explanation, MECE Structuring │
+└───────────────────────┬───────────────────────┘
+                        │
+                        ▼
+┌───────────────────────────────────────────────┐
+│   Strategy Formulation                       │
+│   (How does this connect to strategy?)       │
+│   → Competitive Differentiation, Forecasting │
+│   → Scenario Planning, LLM-based Scenario Gen│
+└───────────────────────┬───────────────────────┘
+                        │
+                        ▼
+┌───────────────────────────────────────────────┐
+│   Communication & Delivery                   │
+│   (How to communicate the findings?)         │
+│   → Visualizations (Plotly, Streamlit, etc.) │
+│   → Executive Summary by LLM or Manual Write │
+└───────────────────────────────────────────────┘
+
+
 ## Repository Structure
 
 1. theory/ → Conceptual frameworks and strategic methodologies
