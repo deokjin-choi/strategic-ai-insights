@@ -5,9 +5,7 @@
 
 ## Purpose
 
-This repository is where I share my thoughts, experiments, and discoveries on how AI and data-driven approaches can help us ask better questions,find meaningful answers, and generate strategic insights.
-
-The focus is on **problem discovery, solution design, and strategic foresight** with the belief that good questions, supported by data and clear reasoning,can lead to better decisions and impactful strategies.
+This repository is where I share my thoughts, experiments, and discoveries on how AI and data-driven approaches can help us ask better questions,find meaningful answers, and generate strategic insights. The focus is on **problem discovery, solution design, and strategic foresight** with the belief that good questions, supported by data and clear reasoning,can lead to better decisions and impactful strategies.
 
 ## Key Themes
 
