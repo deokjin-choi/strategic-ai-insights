@@ -5,8 +5,13 @@
 
 ## Purpose
 
-This repository is a collection of my learnings, experiments, and reflections at the intersection of AI, data science, and technology strategy.  
-The focus is not only on technical implementation but on how these technologies can enhance **problem discovery, solution design, and strategic foresight**.
+This repository is where I share my thoughts, experiments, and discoveries  
+on how AI and data-driven approaches can help us ask better questions,  
+find meaningful answers, and generate strategic insights.
+
+The focus is on **problem discovery, solution design, and strategic foresight**  
+with the belief that good questions, supported by data and clear reasoning,  
+can lead to better decisions and impactful strategies.
 
 ## Key Themes
 
@@ -20,7 +25,7 @@ The focus is not only on technical implementation but on how these technologies 
    → Leveraging data-driven methods to support technology prediction, scenario planning, and future-oriented strategy building.
 
 ## Strategy Flow Overview
-<pre>```
+<pre>
 ┌───────────────────────────────────────────────┐
 │   External Signals                            │
 │   (Patents, Market Data, Earnings Calls, etc.)│
@@ -67,7 +72,6 @@ The focus is not only on technical implementation but on how these technologies 
 │   → Visualizations (Plotly, Streamlit, etc.) │
 │   → Executive Summary by LLM or Manual Write │
 └───────────────────────────────────────────────┘
-```
 </pre>
 
 ## Repository Structure
