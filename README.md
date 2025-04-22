@@ -20,6 +20,7 @@ The focus is not only on technical implementation but on how these technologies 
    → Leveraging data-driven methods to support technology prediction, scenario planning, and future-oriented strategy building.
 
 ## Repository Structure
+
 theory/ → Conceptual frameworks and strategic methodologies
 case_studies/ → Analysis of real-world competitive scenarios
 code/ → Experiments, scripts, and notebooks
