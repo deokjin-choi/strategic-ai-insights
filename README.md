@@ -20,6 +20,7 @@ The focus is not only on technical implementation but on how these technologies 
    → Leveraging data-driven methods to support technology prediction, scenario planning, and future-oriented strategy building.
 
 ## Strategy Flow Overview
+<pre>```
 ┌───────────────────────────────────────────────┐
 │   External Signals                            │
 │   (Patents, Market Data, Earnings Calls, etc.)│
@@ -66,7 +67,8 @@ The focus is not only on technical implementation but on how these technologies 
 │   → Visualizations (Plotly, Streamlit, etc.) │
 │   → Executive Summary by LLM or Manual Write │
 └───────────────────────────────────────────────┘
-
+```
+</pre>
 
 ## Repository Structure
 
