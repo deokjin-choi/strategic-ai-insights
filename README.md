@@ -1,6 +1,3 @@
-# strategic-ai-insights
-AI-powered insights for technology strategy, competitive intelligence, and forecasting.
-
 # Strategic AI Insights
 
 **Author:** Deokjin choi  
