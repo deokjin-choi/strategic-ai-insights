@@ -20,7 +20,7 @@ According to the report, patents related to power grids have increased more than
 The rise of **bidirectional flow** is a prime example. In the past, electricity flowed from central power plants to consumers. Today, homes and vehicles can also generate and store electricity. This creates a **complex and dynamic environment** that must be sensed and managed in real time. Technologies such as **AI**, digital sensors, and **virtual power plants (VPPs)** have seen rapid patenting as a result.
 
 In short: the **true bottleneck** in energy transition is not technology—it’s **infrastructure**.
-![Grid bottleneck in electrification](electrification.png)
+![Grid bottleneck in electrification](Electrification.png)
 ---
 
 ## 3. National Strategies and Industry Realities
