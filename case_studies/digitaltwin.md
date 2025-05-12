@@ -90,7 +90,7 @@ This twin mirrors the real system and evolves over time to enable predictive dia
   In Palantir’s view, a digital twin isn’t of a machine.  
   It’s a **twin of your decision network**—your organizational reality.
 
-> **📖 Internal Perspective — Nabeel Qureshi (ex-FDE, Palantir)**  
+> **Internal Perspective — Nabeel Qureshi (ex-FDE, Palantir)**  
 > In his popular Medium article [“Reflections on Palantir”](https://medium.com/@nabeelqu/reflections-on-palantir-52433cf95439),  
 > Qureshi describes how Palantir shifted from a consultancy-style model to a productized platform:
 > 
