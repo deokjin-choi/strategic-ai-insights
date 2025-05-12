@@ -1,6 +1,5 @@
 # Same Problem, Different Solutions – A Comparative Look at Palantir and GE's Digital Twin Strategies
 
----
 
 ## 1. Introduction – Digital Twins: One Concept, Different Realities
 
@@ -13,7 +12,6 @@ In this article, we compare how **Palantir** and **General Electric (GE)**
 tackle the same idea—digital twins—through completely different technical and strategic approaches.  
 The analysis is based on actual patents from both companies.
 
----
 
 ## 2. Technical Approach – How the Patents Solve the Problem
 
@@ -35,7 +33,6 @@ without predefining the structure.
 > Don’t force data into rigid models.  
 > **Understand, restructure, and act on it** dynamically.
 
----
 
 ### GE's Patent: Twinning Physical State and Failure Prediction (US20170286572A1)
 
@@ -55,7 +52,6 @@ This twin mirrors the real system and evolves over time to enable predictive dia
 **Key Insight**  
 > You don’t just simulate equipment—you **clone its behavior** to see what’s coming.
 
----
 
 ### Palantir vs GE – Technical Comparison Table
 
@@ -68,7 +64,6 @@ This twin mirrors the real system and evolves over time to enable predictive dia
 | **Use Case** | Enterprise-wide decision support, integration | Predictive maintenance, operational efficiency |
 | **Twin Type** | Semantic abstraction-based twin | Physical system replication-based twin |
 
----
 
 ## 3. Strategic Background – Technology Reflects Philosophy
 
@@ -106,7 +101,6 @@ This twin mirrors the real system and evolves over time to enable predictive dia
 > This reflection directly aligns with how Palantir’s patent on dynamic ontology lays the foundation  
 > for an adaptive digital twin of organizational semantics—not hardware, but **meaning**.
 
----
 
 ### GE – Cloning Physical Assets for Predictive Control
 
@@ -125,8 +119,6 @@ This twin mirrors the real system and evolves over time to enable predictive dia
   It’s not metaphorical—it’s about **mirroring machinery** to improve uptime and cut costs.  
   The twin is a **predictive shadow of physical performance.**
 
----
-
 ## 4. Digital Twins Are Strategy
 
 > A digital twin isn’t just a copy of something.  
@@ -137,8 +129,6 @@ This twin mirrors the real system and evolves over time to enable predictive dia
 
 They both build twins—but for very different ends.
 
----
-
 ## 5. Which Twin Does Your Company Need?
 
 | Category | Palantir-style Twin | GE-style Twin |
@@ -148,7 +138,6 @@ They both build twins—but for very different ends.
 | **Best-fit Companies** | Public sector, energy, logistics, or any org with complex decision layers | Manufacturing, process industries, critical equipment operators |
 | **Ideal Users** | Analysts, planners, strategic leaders | Maintenance teams, engineers, OT managers |
 
----
 
 ## 6. Conclusion – Who Are You Twinning?
 
