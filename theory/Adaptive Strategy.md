@@ -20,6 +20,10 @@ An **Adaptive Strategy Architect** is someone who doesn't rely on fixed processe
 but instead rapidly assembles the right combination of tools, logic, and structure  
 to derive meaningful insight and strategic direction from ambiguous or evolving problems.
 
+> **They identify the core of the problem,  
+select appropriate AI and analytical tools on demand,  
+and solve it quickly with precision and structure.**
+
 ### Core Capabilities:
 
 - Frames unstructured problems into actionable structures
