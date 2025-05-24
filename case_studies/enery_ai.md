@@ -222,7 +222,6 @@ For AI to be truly embedded into the power grid, the system must be built with:
 - **Institutional trust**, and  
 - **Feedback loops** at its core.
 
-The clash between AI and energy is a symptom of **poorly designed systems**.  
-Our task now is not just to observe that conflict — but to resolve it through the creation of **new, integrated architectures**.
+The clash between AI and energy is a symptom of **poorly designed systems**. Our task now is not just to observe that conflict — but to resolve it through the creation of **new, integrated architectures**.
 
 
