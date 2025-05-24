@@ -2,7 +2,6 @@
 
 ***The Duality of AI and Energy Through the Lens of the IEA Report and an Execution Framework***
 
----
 
 ## **(0) Introduction – Why I Read This Report to the End**
 
@@ -13,7 +12,6 @@ This article aims to:
 1. Structurally summarize the core content of the report, and  
 2. Lay out a step-by-step framework to translate it into an executable system.
 
----
 
 ## **(1) Key Summary of the Report – The Structure of Conflict and Coexistence Between AI and Energy**
 
@@ -23,8 +21,6 @@ This article aims to:
 - **By 2030: Expected to rise to 945 TWh** → Equivalent to Japan's total electricity usage  
 - **AI-specific data centers consume more power than aluminum smelters**  
 - Example: GPT-4 training requires **tens of thousands of NVIDIA A100/H100s running 24/7 for weeks** → **Several MW to tens of MW load**, equivalent to consumption by over 100,000 households
-
----
 
 ### **2. Structure of Power Consumption: Training + Inference + Cooling**
 
@@ -37,8 +33,6 @@ This article aims to:
 - Cooling evolution: Air → Water → **Immersion Cooling**  
   - With immersion cooling, **PUE < 1.1** is possible (used by Meta, Microsoft)
 
----
-
 ### **3. Big Tech Doesn’t Rely on National Power Grids – Building Proprietary Energy Systems**
 
 | Company | Energy Strategy |
@@ -48,9 +42,7 @@ This article aims to:
 | **AWS** | Global wind contracts via PPA + operates own wind farms in some regions |
 | **Meta** | Installs dedicated solar near data centers + immersion cooling systems |
 
-📌 Key goals: **Energy independence + ESG (carbon neutrality) + supply chain risk mitigation**
-
----
+Key goals: **Energy independence + ESG (carbon neutrality) + supply chain risk mitigation**
 
 ### **4. AI Strengthens the Grid: 175 GW Capacity Without Additional Infrastructure**
 
@@ -63,8 +55,6 @@ Example: U.S. operator TenneT → AI-based load shifting **eased 15% congestion*
 
 Summary: AI enables **smarter use of existing infrastructure** without new physical builds
 
----
-
 ### **5. AI Accelerates Energy Technology Innovation 10x**
 
 | Tech Area | AI Use |
@@ -76,8 +66,6 @@ Summary: AI enables **smarter use of existing infrastructure** without new physi
 
 MIT: RL-based CO₂ process control → **20% energy savings**
 
----
-
 ### **6. AI Emits Carbon Too → Balance Is Needed**
 
 - Report scenarios (Base Case):
@@ -87,8 +75,6 @@ MIT: RL-based CO₂ process control → **20% energy savings**
 - Meanwhile, AI-driven optimization may reduce **5~7% of total energy emissions**
 
 ▶ **AI reduces GHGs but is also a significant emitter – a duality exists**
-
----
 
 ### **7. Explainable AI Is Essential in the Energy Sector**
 
@@ -101,8 +87,6 @@ MIT: RL-based CO₂ process control → **20% energy savings**
 | GPT, DNN, CNN | XGBoost + SHAP, Autoencoders, Rule-based |
 | High performance but black-box | Slightly lower performance but more trustworthy |
 
----
-
 ### **8. Emerging Markets Have High Leapfrog Potential in AI+Energy**
 
 - Many internet users, but limited data center infrastructure → **leap opportunities**
@@ -110,8 +94,6 @@ MIT: RL-based CO₂ process control → **20% energy savings**
 - With AI: **Short-term scale-up of forecasting, efficient plant ops, local energy optimization**
 
 Examples: India, Indonesia, Kenya → expanding AI-based microgrids, digital ESS
-
----
 
 **Summary: AI is Both a Heavy Energy Consumer and the Strongest Catalyst for Energy Innovation.**
 **The key to future energy strategy lies in who controls and utilizes this duality.**
@@ -126,8 +108,6 @@ Examples: India, Indonesia, Kenya → expanding AI-based microgrids, digital ESS
 - **Infrastructure**: Sensor-connected AI with 2-way control (not passive calculators)
 - **Institutional**: Human-centered AI design (not autonomous authority)
 
----
-
 ### **2. Assess Executability – Where and How to Start?**
 
 | Priority | Area | Reason |
@@ -140,8 +120,6 @@ Key bottlenecks include:
 - Unexplainable AI → operator distrust  
 - Limited sensing + data access  
 - Rigid regulatory structure
-
----
 
 ### **3. System Structuring – What Would an Actual Implementation Look Like?**
 
