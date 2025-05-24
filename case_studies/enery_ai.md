@@ -51,9 +51,7 @@ Key goals: **Energy independence + ESG (carbon neutrality) + supply chain risk m
   - **Load shifting optimization** → relieves congestion
   - **Dynamic Line Rating** → adjusts transmission based on weather/wind conditions
 
-Example: U.S. operator TenneT → AI-based load shifting **eased 15% congestion**
-
-Summary: AI enables **smarter use of existing infrastructure** without new physical builds
+Example: U.S. operator TenneT → AI-based load shifting **eased 15% congestion**. AI enables **smarter use of existing infrastructure** without new physical builds
 
 ### **5. AI Accelerates Energy Technology Innovation 10x**
 
