@@ -191,10 +191,10 @@ The abstract “role of AI” must be translated into a connected system that li
 | **4. Operator review** | Dashboard interface for approval or manual intervention |
 | **5. Execution & feedback** | Action execution with data returned to retrain models |
 
-![AI Grid Optimization Loop](ai_grid.png)
-
 **Design priority**: Maintain the full loop without breaks  
 **Interpretability** is key for operator trust and sustainable adoption.
+
+![AI Grid Optimization Loop](ai_grid.png)
 
 ### Example 2: Leapfrog Microgrid Model (e.g., Malaysia)
 
@@ -207,7 +207,7 @@ The abstract “role of AI” must be translated into a connected system that li
 | **5. Grid integration** | Connect to national grid or enable peer-to-peer (P2P) energy sharing |
 
 In infrastructure-limited regions, combine local optimization with explainable AI to reduce regulatory friction and accelerate adoption.
-
+![Microgrid](micro_grid.png)
 
 ### **Design Principles – 3 Rules for Systemization**
 
