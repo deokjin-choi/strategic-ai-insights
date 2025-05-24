@@ -104,49 +104,129 @@ Examples: India, Indonesia, Kenya → expanding AI-based microgrids, digital ESS
 
 ### **1. Define Preconditions – What Needs to Be in Place?**
 
-- **Technical**: Interpretable, control-capable AI (not just predictive)
-- **Infrastructure**: Sensor-connected AI with 2-way control (not passive calculators)
-- **Institutional**: Human-centered AI design (not autonomous authority)
+The report outlines an inspiring flow, but actual implementation requires more than a vision — it demands clear conditions across **technology**, **infrastructure**, and **institutions**.
+
+#### ① Technological Preconditions: AI Must Be Interpretable and Controllable  
+AI must move beyond simple prediction to **explainable control**. Especially in grid operations, carbon capture, and automated data centers, operators need to understand **why** AI made a decision.
+
+Examples:  
+- LSTM + SHAP explanations  
+- GNN with feature attribution  
+- Rule-based corrective logic  
+
+Accuracy alone is no longer enough — **trust and explainability** take precedence.
+
+#### ② Infrastructure Preconditions: AI Must Be Sensor-Connected and Bidirectional  
+AI cannot function without real-time data. Sensor-based infrastructure is essential.
+
+Use cases:  
+- Grid systems: sensing temperature, load, wind, and solar radiation  
+- Facility management: vibration, heat, leak detection sensors  
+
+AI must not be a **passive calculator** but an **active controller** in a **digital twin** framework.  
+AI is the "brain", but sensors and actuators are the "nervous system" — they must come first.
+
+#### ③ Institutional Preconditions: AI Must Be a Co-Pilot, Not a Commander  
+Public and safety concerns prevent full AI autonomy in energy systems. Therefore, AI should make **interpretable suggestions**, with final decisions approved by human operators or policymakers.
+
+Institutional conditions:  
+- Transparent, explainable reports  
+- Manual override protocols for anomaly detection  
+- Clear operator-AI interface standards  
+
+**Executable AI must be designed as a “reviewable assistant,” not an omnipotent engine.**
+
+---
 
 ### **2. Assess Executability – Where and How to Start?**
 
-| Priority | Area | Reason |
-|---------|------|--------|
-| 1st | Renewable energy forecasting | High demand, structured prediction, real-world decision linkage |
-| 2nd | Grid load shifting | Sensor-based, semi-controllable, integrable |
-| 3rd | CO₂ capture control | Technically complex, costly, regulation-sensitive |
+Even with sound theory, execution depends on context. We must evaluate **priority areas**, **practical bottlenecks**, and **geographic feasibility** to avoid turning a strategy into wishful thinking.
 
-Key bottlenecks include:  
-- Unexplainable AI → operator distrust  
-- Limited sensing + data access  
-- Rigid regulatory structure
+#### ① Deployment Priorities: Not All Systems Are Ready
+
+We prioritize areas with high demand, clear structure, and human interpretability.
+
+| Priority | Area                   | Reason                                                                 |
+|----------|------------------------|------------------------------------------------------------------------|
+| 1st      | Renewable forecasting  | Strong demand, clear prediction structure, direct link to decisions    |
+| 2nd      | Grid load shifting     | Sensor-based, semi-controllable, integrable with current systems       |
+| 3rd      | CO₂ capture control    | Technically complex, high cost, sensitive to regulation                |
+
+▶ Adoption depends more on **operational trust** than technical feasibility.
+
+#### ② Bottlenecks: People and Policy More Than Tech
+
+| Bottleneck           | Description                                                                 |
+|----------------------|-----------------------------------------------------------------------------|
+| **Unexplainable AI** | Black-box models fail to provide rationale → operator rejection             |
+| **Data access**       | Lack of high-resolution, real-time sensing and poor inter-system connectivity |
+| **Policy rigidity**   | No protocols to validate/approve AI recommendations                         |
+
+▶ The tech exists — but institutions and people are not fully prepared.
+
+#### ③ Geography Matters: Malaysia Leapfrogs, Korea Integrates
+
+| Region                 | Approach                                               | Rationale                                         |
+|------------------------|--------------------------------------------------------|--------------------------------------------------|
+| Malaysia / Emerging    | AI-led microgrids + dashboard for operators            | Flexible regulation allows bottom-up design      |
+| Korea / Advanced       | Integrated AI into legacy systems                      | Assistive control within rigid legacy structure  |
+| Big Tech               | Full-stack AI optimization of private energy systems   | Own infrastructure and full data sovereignty     |
+
+▶ Execution hinges less on national identity and more on **infrastructure control and data access**.
+
+---
 
 ### **3. System Structuring – What Would an Actual Implementation Look Like?**
 
-**Example 1: AI Grid Optimization Loop**
+The abstract “role of AI” must be translated into a connected system that links **prediction**, **judgment**, **execution**, and **feedback** in a continuous loop.
 
-```
-[1] Realtime sensing → [2] AI forecasting → [3] AI judgment → 
-[4] Operator review → [5] Execution + feedback loop
-```
+#### Example 1: AI Grid Optimization Loop (For Fixed Infrastructure)
 
-**Example 2: Leapfrog Microgrid (e.g. Malaysia)**
+[1] Real-time environment sensing (wind, temp, load, power flow)
+→ [2] AI forecasting (LSTM for renewables, GNN for congestion)
+→ [3] AI judgment (e.g., load shifting, ESS dispatch + SHAP explanation)
+→ [4] Operator review (approve via dashboard or intervene)
+→ [5] Execution + feedback loop (data returned to retrain model)
 
-```
-[1] Local solar + ESS → [2] Edge AI demand prediction → 
-[3] Autonomous scheduling + explainable logic → 
-[4] One-click approval → [5] P2P grid exchange
-```
+▶ **Design priority: maintain the full loop without breaks**  
+**Interpretability** is a prerequisite for operator trust and long-term adoption.
 
-**Design principles**:
-1. Explainability first  
-2. AI = Assistive logic  
-3. Loop structure = Predict → Decide → Execute → Feedback → Retrain
+#### Example 2: Leapfrog Microgrid Model (e.g., Malaysia)
+[1] Local renewable energy + ESS setup (solar, wind + battery)
+→ [2] Edge AI for demand forecasting (e.g., XGBoost)
+→ [3] Autonomous scheduling + explainable decision logic
+→ [4] Operator approval (via one-click dashboard or pre-set rule)
+→ [5] Integration with national or P2P electricity grid
+
+
+▶ In infrastructure-poor regions, combine **local optimization + explainable AI** to avoid regulatory resistance.
+
+### **Design Principles – 3 Rules for Systemization**
+
+1. **Design "explanation" before prediction** — transparency is more important than accuracy.  
+2. **AI should assist, not dominate** — assign AI the role of a co-pilot.  
+3. **Establish a closed loop** — Predict → Judge → Execute → Feedback → Retrain.
 
 ---
 
 ## **(3) Conclusion – How Should We Understand the Clash Between AI and Energy?**
 
-This report shows that **AI and energy are not just complementary – they also conflict**.  
-The only way forward is **designing systems** where this duality becomes productive, not destructive.  
-And that design must begin now.
+This report is not merely about technological progress.  
+It reveals how **AI and energy collide and cooperate at the same time**, and why this tension demands a new kind of system design.
+
+AI is a **dual entity** — it consumes electricity and optimizes it.  
+This duality is not just a technical challenge, but a structural one.  
+Only through deliberate and thoughtful **system design** can we transition toward a sustainable energy future.
+
+Therefore, our goal should not be limited to deploying AI technologies.  
+We must go further — to **design executable, structured systems** that make integration real.
+
+For AI to be truly embedded into the power grid, the system must be built with:  
+- **Explainability**,  
+- **Institutional trust**, and  
+- **Feedback loops** at its core.
+
+The clash between AI and energy is a symptom of **poorly designed systems**.  
+Our task now is not just to observe that conflict — but to resolve it through the creation of **new, integrated architectures**.
+
+
