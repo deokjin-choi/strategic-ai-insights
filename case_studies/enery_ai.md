@@ -3,7 +3,7 @@
 ***The Duality of AI and Energy Through the Lens of the IEA Report and an Execution Framework***
 
 
-## **(0) Introduction – Why I Read This Report to the End**
+## **(1) Introduction – Why I Read This Report to the End**
 
 When I read technical reports, I often pay more attention to the "structure" than to individual "sentences." The IEA's "Energy and AI" report was no exception. AI appears as a power-consuming entity, but also as a tool for optimizing the grid. A dual role. To me, this was not just a technical issue but a sign that **the system itself demands both collision and redesign**.
 
@@ -13,7 +13,7 @@ This article aims to:
 2. Lay out a step-by-step framework to translate it into an executable system.
 
 
-## **(1) Key Summary of the Report – The Structure of Conflict and Coexistence Between AI and Energy**
+## **(2) Key Summary of the Report – The Structure of Conflict and Coexistence Between AI and Energy**
 
 ### **1. AI Cannot Exist Without Electricity → Data Centers Consume Power at Industrial Scale**
 
@@ -98,7 +98,7 @@ Examples: India, Indonesia, Kenya → expanding AI-based microgrids, digital ESS
 
 ---
 
-## **(2) Execution Framework – Turning This Flow into a Structured System**
+## **(3) Execution Framework – Turning This Flow into a Structured System**
 
 ### **1. Define Preconditions – What Needs to Be in Place?**
 
@@ -178,26 +178,32 @@ We prioritize areas with high demand, clear structure, and human interpretabilit
 
 The abstract “role of AI” must be translated into a connected system that links **prediction**, **judgment**, **execution**, and **feedback** in a continuous loop.
 
-#### Example 1: AI Grid Optimization Loop (For Fixed Infrastructure)
+### Example 1: AI Grid Optimization Loop (For Fixed Infrastructure)
 
-[1] Real-time environment sensing (wind, temp, load, power flow)
-→ [2] AI forecasting (LSTM for renewables, GNN for congestion)
-→ [3] AI judgment (e.g., load shifting, ESS dispatch + SHAP explanation)
-→ [4] Operator review (approve via dashboard or intervene)
-→ [5] Execution + feedback loop (data returned to retrain model)
+| Step | Description |
+|------|-------------|
+| **1. Real-time sensing** | Environment data: wind, temperature, load, power flow |
+| **2. AI forecasting** | - LSTM for renewable energy prediction<br>- GNN for power congestion forecasting |
+| **3. AI judgment** | - Load shifting decisions<br>- ESS (Energy Storage System) dispatching<br>- SHAP-based model explanation |
+| **4. Operator review** | Dashboard interface for approval or manual intervention |
+| **5. Execution & feedback** | Action execution with data returned to retrain models |
 
-▶ **Design priority: maintain the full loop without breaks**  
-**Interpretability** is a prerequisite for operator trust and long-term adoption.
+**Design priority**: Maintain the full loop without breaks  
+**Interpretability** is key for operator trust and sustainable adoption.
 
-#### Example 2: Leapfrog Microgrid Model (e.g., Malaysia)
-[1] Local renewable energy + ESS setup (solar, wind + battery)
-→ [2] Edge AI for demand forecasting (e.g., XGBoost)
-→ [3] Autonomous scheduling + explainable decision logic
-→ [4] Operator approval (via one-click dashboard or pre-set rule)
-→ [5] Integration with national or P2P electricity grid
+### Example 2: Leapfrog Microgrid Model (e.g., Malaysia)
 
+| Step | Description |
+|------|-------------|
+| **1. Local energy setup** | Deploy local renewables (solar, wind) and battery storage |
+| **2. Edge AI forecasting** | Use lightweight models (e.g., XGBoost) for real-time demand prediction |
+| **3. Autonomous scheduling** | Optimize energy use with explainable AI decision logic |
+| **4. Operator approval** | One-click dashboard confirmation or rule-based automation |
+| **5. Grid integration** | Connect to national grid or enable peer-to-peer (P2P) energy sharing |
 
-▶ In infrastructure-poor regions, combine **local optimization + explainable AI** to avoid regulatory resistance.
+In infrastructure-limited regions, combine local optimization with explainable AI  
+to reduce regulatory friction and accelerate adoption.
+
 
 ### **Design Principles – 3 Rules for Systemization**
 
@@ -207,7 +213,7 @@ The abstract “role of AI” must be translated into a connected system that li
 
 ---
 
-## **(3) Conclusion – How Should We Understand the Clash Between AI and Energy?**
+## **(4) Conclusion – How Should We Understand the Clash Between AI and Energy?**
 
 This report is not merely about technological progress. It reveals how **AI and energy collide and cooperate at the same time**, and why this tension demands a new kind of system design.
 
