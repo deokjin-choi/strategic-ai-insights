@@ -5,7 +5,10 @@
 
 ## **(1) Introduction – Why I Read This Report to the End**
 
-When I read technical reports, I often pay more attention to the "structure" than to individual "sentences." The IEA's "Energy and AI" report was no exception. AI appears as a power-consuming entity, but also as a tool for optimizing the grid. A dual role. To me, this was not just a technical issue but a sign that **the system itself demands both collision and redesign**.
+When I read technical reports, I often pay more attention to the "structure" than to individual "sentences." The IEA's "Energy and AI" report was no exception. AI appears as a power-consuming entity, but also as a tool for optimizing the grid. A dual role. 
+![AI Grid Dual](ai_dual.png)
+
+To me, this was not just a technical issue but a sign that **the system itself demands both collision and redesign**.
 
 This article aims to:
 
