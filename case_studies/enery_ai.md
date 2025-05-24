@@ -201,8 +201,7 @@ The abstract “role of AI” must be translated into a connected system that li
 | **4. Operator approval** | One-click dashboard confirmation or rule-based automation |
 | **5. Grid integration** | Connect to national grid or enable peer-to-peer (P2P) energy sharing |
 
-In infrastructure-limited regions, combine local optimization with explainable AI  
-to reduce regulatory friction and accelerate adoption.
+In infrastructure-limited regions, combine local optimization with explainable AI to reduce regulatory friction and accelerate adoption.
 
 
 ### **Design Principles – 3 Rules for Systemization**
