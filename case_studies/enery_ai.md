@@ -211,15 +211,11 @@ The abstract “role of AI” must be translated into a connected system that li
 
 ## **(3) Conclusion – How Should We Understand the Clash Between AI and Energy?**
 
-This report is not merely about technological progress.  
-It reveals how **AI and energy collide and cooperate at the same time**, and why this tension demands a new kind of system design.
+This report is not merely about technological progress. It reveals how **AI and energy collide and cooperate at the same time**, and why this tension demands a new kind of system design.
 
-AI is a **dual entity** — it consumes electricity and optimizes it.  
-This duality is not just a technical challenge, but a structural one.  
-Only through deliberate and thoughtful **system design** can we transition toward a sustainable energy future.
+AI is a **dual entity** — it consumes electricity and optimizes it. This duality is not just a technical challenge, but a structural one. Only through deliberate and thoughtful **system design** can we transition toward a sustainable energy future.
 
-Therefore, our goal should not be limited to deploying AI technologies.  
-We must go further — to **design executable, structured systems** that make integration real.
+Therefore, our goal should not be limited to deploying AI technologies. We must go further — to **design executable, structured systems** that make integration real.
 
 For AI to be truly embedded into the power grid, the system must be built with:  
 - **Explainability**,  
