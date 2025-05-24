@@ -191,6 +191,8 @@ The abstract “role of AI” must be translated into a connected system that li
 | **4. Operator review** | Dashboard interface for approval or manual intervention |
 | **5. Execution & feedback** | Action execution with data returned to retrain models |
 
+![AI Grid Optimization Loop](ai_grid.png)
+
 **Design priority**: Maintain the full loop without breaks  
 **Interpretability** is key for operator trust and sustainable adoption.
 
