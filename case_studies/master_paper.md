@@ -19,7 +19,7 @@ The study also found a shift in search-related innovation—from emphasizing doc
 
 For qualitative analysis, 217 patents were selected from the broader portfolio based on citation count and patent family size. These patents were primarily in the search and advertising domains, which at the time accounted for more than 95% of Google's revenue. Each patent was reviewed in detail to identify the invention’s context, the problem addressed, the solution proposed, and the expected outcome.
 
-The table below illustrates the coding and mapping process based on Grounded Theory:
+The table below illustrates this coding and mapping process based on Grounded Theory:
 
 | Domain     | Problem Identified                            | Solution Proposed                                    | Expected Effect                                | Representative Patent |
 |------------|------------------------------------------------|------------------------------------------------------|--------------------------------------------------|------------------------|
@@ -32,7 +32,6 @@ The table below illustrates the coding and mapping process based on Grounded The
 
 Based on this structured analysis, key patents were categorized into thematic clusters. These clusters were then connected to actual product implementations, forming the foundation for the Patent-to-Product Mapping Table in the next section.
 
----
 
 ### Patent-to-Product Mapping Table
 
@@ -50,9 +49,11 @@ The purpose of this mapping is to demonstrate how qualitative patent analysis—
 | Advertising| Contextual Matching  | US8171034      | Matching ad to page topic using text analysis                    | AdSense                          |
 | Advertising| Shopping/UX          | US7953642      | Unified purchase experience across merchants                     | Google Shopping product overlay  |
 
----
 
 ### Google IP Strategy by Era
+
+This chronological mapping demonstrates how Google’s R&D activities were directly aligned with its product roadmap. Each phase reflects not only expansion into new technological areas but also strategic diversification—moving from web search to platforms, devices, and media. The pattern of patent filings validates that intellectual property was used proactively to secure innovation leadership and preempt competition across domains.
+
 
 | Period        | Tech Focus                            | Product Milestones                       |
 |---------------|----------------------------------------|-------------------------------------------|
@@ -60,19 +61,17 @@ The purpose of this mapping is to demonstrate how qualitative patent analysis—
 | 2002–2006     | Ads, GIS, Image Processing            | AdSense, Maps, Earth                      |
 | 2007–2011     | Voice, Mobile, Navigation, Media      | Android OS, Google TV, YouTube, Voice     |
 
-This chronological mapping demonstrates how Google’s R&D activities were directly aligned with its product roadmap. Each phase reflects not only expansion into new technological areas but also strategic diversification—moving from web search to platforms, devices, and media. The pattern of patent filings validates that intellectual property was used proactively to secure innovation leadership and preempt competition across domains.
 
----
 
-### Methodological Strengths
-- Combines quantitative + qualitative patent analysis
-- Uses Grounded Theory to extract implicit tech strategy
-- Maps innovation to product releases and stakeholder needs
-- Benchmarking vs. competitors enhances strategic positioning
+### Methodological Strengths & Applicability to Energy Sector
 
----
+This structured methodology combines both depth and adaptability:
+- Quantitative + qualitative patent analysis for comprehensive insights
+- Grounded Theory to extract implicit strategic patterns
+- Innovation mapped to real products and stakeholder needs
+- Competitive benchmarking to assess market positioning
 
-### Applicability to Energy Sector (e.g., Aramco)
+These strengths are transferable to the energy sector:
 
 | Area                  | Transferable Methodology                          |
 |-----------------------|----------------------------------------------------|
@@ -81,22 +80,15 @@ This chronological mapping demonstrates how Google’s R&D activities were direc
 | Renewable Investment  | Map tech trends to market readiness              |
 | JV/Tech Scouting      | Benchmark IP strength vs. partners               |
 
-This portfolio provides a template for analyzing IP-rich domains and aligning patent assets to long-term innovation planning.
+The result is a reusable template for analyzing IP-rich domains and aligning patent assets with strategic innovation planning across industries such as energy, mobility, or sustainability.
 
 ---
 
-### Author Background
-- Master’s in Technology Management (SKKU)
-- Industry experience: Patent, analytics, AI strategy
-- Focus: Structuring unstructured data (e.g. patents) into decision-grade insights
+### Profile Summary
+- Master's in Technology Management (SKKU)
+- Practical experience in patent analytics, AI strategy, and innovation mapping
+- Strong ability to structure unstructured data (e.g., patents) into actionable business insights
+- Skilled in linking technical inventions to product strategy through structured methodologies
+- Proven capability in competitive benchmarking and IP-based technology planning
 
----
-
-### Summary
-This portfolio demonstrates my core strengths as follows:
-- I can analyze large-scale patent datasets and extract meaningful trends.
-- I design structured and reproducible frameworks for linking IP data to real-world product strategy.
-- I bridge the gap between technical invention and business application through problem-solution-effect modeling.
-- I benchmark innovation using patent intelligence, enabling strategic insights for R&D and competitive positioning.
-
-Ready to apply this framework to energy innovation, carbon technologies, or cross-border IP strategy.
+This portfolio demonstrates these strengths through a real-world analysis of Google's patent strategy. It reflects my ability to manage large-scale datasets, extract strategic patterns using grounded theory, and translate insights into decision-ready outputs—skills readily applicable to energy innovation, carbon solutions, and cross-border technology strategy.
