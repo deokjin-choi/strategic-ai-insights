@@ -106,7 +106,7 @@ $$
 \text{Technology Gap} = 1 - \left( \frac{\text{Current Development Distance}}{\text{Maximum Development Distance}} \right)
 $$
 
-* A higher gap indicates a less developed and less connected cluster.
+** A higher gap indicates a less developed and less connected cluster. **
 
 ---
 
